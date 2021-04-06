@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.page-title {
+    font-style: normal;
+}
+
+.entry-title {
+    font-style: normal;
+}

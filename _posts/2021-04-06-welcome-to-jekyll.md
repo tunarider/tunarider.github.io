@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-04-06 19:17:10 +0900
-categories: jekyll update
+title: "블로그 재작성"
+categories: Diary
+tags:
+last_modified_at: 2021-04-06 19:17:10 +0900
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+작년 이맘때쯤 작성했던 GitHub 블로그를 새로 작성했다.
 
-Jekyll requires blog post files to be named according to the following format:
+기존에는 [Spacemacs Jekyll 테마](https://github.com/victorvoid/space-jekyll-template)를 사용했었는데
+나름 괜찮은 테마였으나 마음에 들지 않던 부분을 계획없이 수정하다보니 더이상 관리하기도 힘들고
+원래부터 조금 이상한 부분들도 있었기 때문에 이번에는 비교적 사용자가 많은 테마를 선택했다.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+터미널 느낌이 나는 깔끔한 테마를 사용할까 했으나 너무 선명하거나 기능이 적어서
+그냥 카테고리나 태그, 검색 같은 기능들이 기본적으로 포함된 [So Simple Jekyll 테마](https://github.com/mmistakes/so-simple-theme)로 결정했다.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+간만에 다시 블로그를 작성하려니 루비 설치부터 아주 막막했는데
+시간을 투자하고나니 어느 정도 모양이 잡혔다.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+한동안 기술적인 내용에 대한 글을 작성하지 못했는데 이제는 다시 마음잡고 열심히 블로그를 운영해보려한다.

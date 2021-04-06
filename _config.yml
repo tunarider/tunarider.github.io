@@ -18,14 +18,14 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Tunarider"
+description: "Technical"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://blog.tunarider.net"
 logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+date_format: "%Y. %m. %d."
+read_time: true
+words_per_minute: 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -37,9 +37,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "tunarider"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: "TRUaxyQ0D5KFsfW"
 
 # Liquid
 liquid:
@@ -52,15 +52,15 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 5
+paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -92,14 +92,17 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: "Tunarider"
+  picture: "/assets/images/profile.png"
+  email: "tunarider@tunaground.net"
+  twitter: "TRUaxyQ0D5KFsfW"
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/TRUaxyQ0D5KFsfW
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/tunarider
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
