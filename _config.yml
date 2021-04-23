@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Tunarider"
-description: "Technical"
+description: "Technical...?"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://blog.tunarider.net"
 logo: # path of site logo, e.g. "/images/logo.png"
