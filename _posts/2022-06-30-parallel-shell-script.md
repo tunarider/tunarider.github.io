@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '병렬 쉘스크립트'
+summary: 쉘스크립트를 병렬로 실행하여 엔지니어의 반복적인 죽음을 피하는 방법
 categories:
   - Tip
 tags:

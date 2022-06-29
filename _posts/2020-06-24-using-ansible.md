@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Ansible을 사용해보았다'
+summary: 처절한 실패 속에 해답이 있다
 categories:
   - Note
 tags:
