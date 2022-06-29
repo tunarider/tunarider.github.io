@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.page-title {
+    font-style: normal;
+}
+
+.entry-title {
+    font-style: normal;
+}
+
+code {
+    font-size: 0.7rem;
+}
+
+div.highlighter-rouge {
+    line-height: 1.2;
+}
+
+.site-description {
+  margin-bottom: 1em;
+  font-family: $description-font-family;
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  font-weight: 400;
+}
