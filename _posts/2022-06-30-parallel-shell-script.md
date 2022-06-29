@@ -6,7 +6,7 @@ categories:
   - Tip
 tags:
   - Infra
-  - Shell Script
+  - Shell-Script
 ---
 
 ## 선공개분
