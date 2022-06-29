@@ -11,7 +11,7 @@ tags:
 
 ## 선공개분
 
-```shell
+```bash
 wait_jobs() {
     local donefiles=("$@")
     for donefile in "${donefiles[@]}"; do until [ -f "${donefile}" ]; do echo -n "." && sleep 1; done && rm -f $donefile; done
@@ -53,7 +53,7 @@ echo "Job done."
 
 나는 한줄짜리 반복문은 정말 한줄로 적어버리는 것을 선호하기 때문에 한줄에 쑤셔넣었지만 좀 더 상냥하게 코드를 짠다면 아래처럼 보일 것이다.
 
-```shell
+```bash
 wait_jobs() {
     local donefiles=("$@")
     for donefile in "${donefiles[@]}"; do
