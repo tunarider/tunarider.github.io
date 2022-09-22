@@ -96,6 +96,8 @@ $ sudo lsof +fg out.log
 
 이런 경우 해당 파일을 참조하는 FD를 찾아 관련 프로세스를 재시작해주면 된다.
 
+## 참고
+
 https://man7.org/linux/man-pages/man1/fallocate.1.html
 https://www.linuxquestions.org/questions/programming-9/how-to-find-out-which-flags-the-process-used-to-open-a-file-4175542258/
 https://superuser.com/questions/94217/why-ls-and-du-show-different-size
