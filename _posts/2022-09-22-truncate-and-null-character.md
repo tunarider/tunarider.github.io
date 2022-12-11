@@ -99,9 +99,14 @@ $ sudo lsof +fg out.log
 ## 참고
 
 [fallocate manual](https://man7.org/linux/man-pages/man1/fallocate.1.html)
+
 [how to find out which flasgs the process used to open a file](https://www.linuxquestions.org/questions/programming-9/how-to-find-out-which-flags-the-process-used-to-open-a-file-4175542258/)
+
 [why ls and du show different size](https://superuser.com/questions/94217/why-ls-and-du-show-different-size)
+
 [async log4j2 and logrotate not working correctly truncate is broken](https://stackoverflow.com/questions/71128523/async-log4j2-and-logrotate-not-working-correctly-truncate-is-broken)
+
 [df/du 명령어 차이점](https://support.bespinglobal.com/ko/support/solutions/articles/73000560685--linux-df-du-명령어-차이점-차이날-때-해결-방법)
+
 [find and remove large files that are open  have been deleted](https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted)
 
