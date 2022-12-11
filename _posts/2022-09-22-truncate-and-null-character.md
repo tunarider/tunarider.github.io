@@ -98,9 +98,15 @@ $ sudo lsof +fg out.log
 
 ## 참고
 
-https://man7.org/linux/man-pages/man1/fallocate.1.html
-https://www.linuxquestions.org/questions/programming-9/how-to-find-out-which-flags-the-process-used-to-open-a-file-4175542258/
-https://superuser.com/questions/94217/why-ls-and-du-show-different-size
-https://stackoverflow.com/questions/71128523/async-log4j2-and-logrotate-not-working-correctly-truncate-is-broken
-https://support.bespinglobal.com/ko/support/solutions/articles/73000560685--linux-df-du-명령어-차이점-차이날-때-해결-방법
-https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted
+<https://man7.org/linux/man-pages/man1/fallocate.1.html>
+
+<https://www.linuxquestions.org/questions/programming-9/how-to-find-out-which-flags-the-process-used-to-open-a-file-4175542258/>
+
+<https://superuser.com/questions/94217/why-ls-and-du-show-different-size>
+
+<https://stackoverflow.com/questions/71128523/async-log4j2-and-logrotate-not-working-correctly-truncate-is-broken>
+
+<https://support.bespinglobal.com/ko/support/solutions/articles/73000560685--linux-df-du-명령어-차이점-차이날-때-해결-방법>
+
+<https://unix.stackexchange.com/questions/68523/find-and-remove-large-files-that-are-open-but-have-been-deleted>
+
