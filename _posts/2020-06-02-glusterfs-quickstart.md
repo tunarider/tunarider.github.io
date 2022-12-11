@@ -2,12 +2,12 @@
 layout: post
 title: 'GlusterFS Quickstart'
 categories:
-  - Quickstart
+- Quickstart
 tags:
-  - Infra
-  - DevOps
-  - Storage
-  - GlusterFS
+- Infra
+- DevOps
+- Storage
+- GlusterFS
 ---
 
 Gluster는 자동으로 장애조치를 할 수 있는 분산형 파일시스템이다.

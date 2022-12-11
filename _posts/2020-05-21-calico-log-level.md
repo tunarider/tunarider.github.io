@@ -2,13 +2,13 @@
 layout: post
 title: Calico Log Level
 categories:
-  - Troubleshooting
+- Troubleshooting
 tags:
-  - Infra
-  - DevOps
-  - Kubernetes
-  - Calico
-  - Elasticsearch
+- Infra
+- DevOps
+- Kubernetes
+- Calico
+- Elasticsearch
 ---
 
 개발용 Kubernetes에 설치한 Grafana에서 경보메세지가 왔다.

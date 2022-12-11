@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "블로그 재작성"
-categories: Diary
+categories:
+- Diary
 tags:
 last_modified_at: 2021-04-06 19:17:10 +0900
 ---

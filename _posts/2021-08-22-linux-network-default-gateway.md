@@ -2,11 +2,11 @@
 layout: post
 title: 'Linux Network Default Route'
 categories:
-  - Issue Note
+- Issue Note
 tags:
-  - Infra
-  - Linux
-  - Network
+- Infra
+- Linux
+- Network
 ---
 Linux 네트워크 스크립트에 `DEFROUTE` 설정이 있다.
 

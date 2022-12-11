@@ -2,12 +2,12 @@
 layout: post
 title: 'Terraform AWS 프로바이더 3.37.0: EKS Addon 리소스 추가'
 categories:
-  - Note
+- Note
 tags:
-  - Infra
-  - Terraform
-  - Automation
-  - AWS
+- Infra
+- Terraform
+- Automation
+- AWS
 ---
 Terraform AWS 프로바이더 3.37.0 마일스톤에 EKS Addon 리소스를 추가하는 PR이 등록되었다.
 

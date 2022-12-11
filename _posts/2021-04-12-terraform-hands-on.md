@@ -2,12 +2,12 @@
 layout: post
 title: 'Terraform 당장 써보기(AWS향 첨가)'
 categories:
-  - Hands-on
+- Hands-on
 tags:
-  - Infra
-  - Terraform
-  - Automation
-  - AWS
+- Infra
+- Terraform
+- Automation
+- AWS
 ---
 Terraform은 인프라 형상관리도구이다.
 코드로 형상을 작성하여 사용하는 플랫폼에 해당 형상을 구현한다.

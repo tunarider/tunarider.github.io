@@ -2,11 +2,11 @@
 layout: post
 title: 'Kubernetes Quickstart'
 categories:
-  - Quickstart
+- Quickstart
 tags:
-  - Infra
-  - DevOps
-  - Kubernetes
+- Infra
+- DevOps
+- Kubernetes
 ---
 
 ## Setup System

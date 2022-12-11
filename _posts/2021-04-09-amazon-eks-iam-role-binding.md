@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Amazon EKS 클러스터에 IAM 사용자 API 사용 권한 부여"
-categories: Hands-on
+categories:
+- Hands-on
 tags:
-  - Amazon EKS
-  - Amazone IAM
-  - Kubernetes
-  - RBAC
+- Amazon EKS
+- Amazone IAM
+- Kubernetes
+- RBAC
 ---
 EKS 클러스터 설정 뒤 다른 AWS 사용자들이 해당 클러스터의 상태를 확인하거나 조작하길 바랄 수 있다.
 

@@ -2,11 +2,11 @@
 layout: post
 title: 'Prometheus Quickstart'
 categories:
-  - Quickstart
+- Quickstart
 tags:
-  - Infra
-  - DevOps
-  - Prometheus
+- Infra
+- DevOps
+- Prometheus
 ---
 
 ## Prometheus

@@ -2,13 +2,13 @@
 layout: post
 title: 'Backup Issue'
 categories:
-  - Note
+- Note
 tags:
-  - Infra
-  - DevOps
-  - Backup
-  - rsync
-  - flock
+- Infra
+- DevOps
+- Backup
+- rsync
+- flock
 ---
 
 

@@ -2,12 +2,12 @@
 layout: post
 title: 'Prometheus Federation'
 categories:
-  - Note
+- Note
 tags:
-  - Infra
-  - DevOps
-  - Prometheus
-  - Federation
+- Infra
+- DevOps
+- Prometheus
+- Federation
 ---
 
 개발용 쿠버네티스 환경을 점검하면서 프로메테우스와 같은 모니터링 시스템을 클러스터 내부에 두는 것이 올바른 방법일지 의문이 들었다.

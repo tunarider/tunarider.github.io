@@ -2,12 +2,12 @@
 layout: post
 title: 'Terraform Docker 프로바이더: 네트워크 별칭 이슈'
 categories:
-  - Issue Note
+- Issue Note
 tags:
-  - Infra
-  - Terraform
-  - Automation
-  - Docker
+- Infra
+- Terraform
+- Automation
+- Docker
 ---
 Terraform Docker 프로바이더에 있는 `docker_service` 리소스는 서비스 네트워크를 설정하는 것은 가능하나 별칭을 걸 수 있는 방법이 없다.
 

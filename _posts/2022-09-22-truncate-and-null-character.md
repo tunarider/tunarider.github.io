@@ -3,16 +3,16 @@ layout: post
 title: '"truncate"와 Null 캐릭터'
 summary: 파일을 무의미한 Null 캐릭터로 도배하기
 categories:
-  - Troubleshooting
+- Troubleshooting
 tags:
-  - Infra
-  - Linux
-  - File System
-  - log4j
-  - logrotate
-  - du
-  - df
-  - ls
+- Infra
+- Linux
+- File System
+- log4j
+- logrotate
+- du
+- df
+- ls
 ---
 
 ## 결론

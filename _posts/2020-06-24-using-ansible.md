@@ -3,12 +3,12 @@ layout: post
 title: 'Ansible을 사용해보았다'
 summary: 처절한 실패 속에 해답이 있다
 categories:
-  - Note
+- Note
 tags:
-  - Infra
-  - Ansible
-  - CI/CD
-  - Automation
+- Infra
+- Ansible
+- CI/CD
+- Automation
 ---
 
 현 직장에 Ansible을 도입한지 1년이 넘었다.

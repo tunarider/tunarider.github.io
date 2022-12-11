@@ -2,11 +2,11 @@
 layout: post
 title: 'Gitlab CI Quickstart'
 categories:
-  - Quickstart
+- Quickstart
 tags:
-  - Infra
-  - Gitlab
-  - CI/CD
+- Infra
+- Gitlab
+- CI/CD
 ---
 
 ## Gitlab CI

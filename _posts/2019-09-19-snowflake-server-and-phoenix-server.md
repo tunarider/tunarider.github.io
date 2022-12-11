@@ -2,12 +2,12 @@
 layout: post
 title: 'Snowflake Server & Phoenix Server'
 categories:
-  - Note
+- Note
 tags:
-  - Infra
-  - Virtual Machine
-  - Snowflake Server
-  - Phoenix Server
+- Infra
+- Virtual Machine
+- Snowflake Server
+- Phoenix Server
 ---
 
 ## Snowflakes Server
