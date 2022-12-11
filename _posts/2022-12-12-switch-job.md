@@ -2,8 +2,7 @@
 layout: post
 title: '이직을 하자: 우선 퇴사를 하자'
 summary: 메신저와 메일계정을 삭제하고 느끼게 되는 것들
-categories:
-  - Diary
+categories: Diary
 tags:
 ---
 
