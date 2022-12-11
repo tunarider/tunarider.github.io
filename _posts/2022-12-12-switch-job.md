@@ -1,8 +1,9 @@
 ---
 layout: post
 title: '이직을 하자: 우선 퇴사를 하자'
-summary: 메신저와 메일계정을 삭제하고 느끼게 되는 것들
-categories: Diary
+summary: 쉘스크립트를 병렬로 실행하여 엔지니어의 반복적인 죽음을 피하는 방법
+categories:
+  - Diary
 tags:
 ---
 
